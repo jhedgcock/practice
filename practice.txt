@@ -3,3 +3,5 @@ practice.txt
 This is my practice, update 1.
 
 This is my update post new branch (featureOne) created.
+
+This is another commit update on the new branch.
